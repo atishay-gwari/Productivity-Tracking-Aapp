@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PTA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="category">
+        <item>Select Category</item>
+        <item>Cleaning</item>
+        <item>Self Care</item>
+        <item>Academics</item>
+        <item>Screen Time</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="moods">
+        <item>Select Category</item>
+        <item>Downhearted</item>
+        <item>Rejected?</item>
+        <item>Workout</item>
+        <item>Joyful</item>
+    </string-array>
+</resources>
